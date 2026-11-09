@@ -1,0 +1,11 @@
+# Confidential screenplay input and derived outputs
+outputs/
+outputs_test/
+*.zip
+*.txt
+# Secrets and local Python files
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
